@@ -1,0 +1,11 @@
+{
+  "id": "tldrawmapper",
+  "title": "Party Mapper",
+  "description": "A tldraw party mapping canvas with local persistence and extension points for collaboration.",
+  "version": "0.1.0",
+  "compatibility": {"minimum": "14", "maximum": "14"},
+  "authors": [{"name": "bagfullofdice"}],
+  "esmodules": ["scripts/module.js"],
+  "styles": ["styles/mapper.css"],
+  "url": "https://github.com/bagfullofdice/tldrawmapper"
+}

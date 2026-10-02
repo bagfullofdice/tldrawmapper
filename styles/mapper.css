@@ -1,0 +1,4 @@
+.party-mapper .window-content { padding: 0; overflow: hidden; }
+.party-mapper .window-content > div { display: flex; flex-direction: column; height: 100%; min-height: 0; }
+.party-mapper p { margin: 0; padding: 8px 12px; font-size: 12px; }
+.party-mapper iframe { flex: 1; min-height: 0; width: 100%; border: 0; background: white; }
